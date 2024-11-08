@@ -1,7 +1,7 @@
 ## Sales Insights Using Tableau
 SQL database dump is in db_dump.sql file above
 
-#Data Analysis Using SQL
+# Data Analysis Using SQL
 Show all customer records
 
 SELECT * FROM customers;
